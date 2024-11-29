@@ -36,14 +36,14 @@ Prerequisites
     
 ####	1. Clone the Repository    
 Download the repository to your computer, ensuring the data folder is included.    
-	2.Run the Application    
+####	2. Run the Application    
 Open a command prompt and execute the following command:    
 ```
 python path_to_dir\integra_project_demo.py
 ```
 Replace path_to_dir with the path to the project folder on your computer.
 
-	3.	Wait for Initialization
+####	3.	Wait for Initialization
 After running the command, the console will display:
 
 Preparing classifier    
@@ -52,14 +52,14 @@ Classifier is ready
  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
 
 
-	4.	Access the Demo
+####	4.	Access the Demo
 Open your browser and navigate to:
 ```
 http://127.0.0.1:5000/integra-demo
 ```
 The demo interface, as shown in the attached screenshots, should appear.
 
-	5.	Use the System
+####	5.	Use the System
 Input sample client correspondence and click the “Evaluate Client Needs” button to generate recommendations.
 
 ### Installing Python 3
