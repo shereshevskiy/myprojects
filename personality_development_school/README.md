@@ -33,10 +33,10 @@ Prerequisites
 	•	Python 3 Installed: If Python 3 is not installed, refer to the instructions below for installation guidance.
 
 ### Steps to Run
-
-	1.	Clone the Repository    
+    
+####	1. Clone the Repository    
 Download the repository to your computer, ensuring the data folder is included.    
-	2.	Run the Application    
+	2.Run the Application    
 Open a command prompt and execute the following command:    
 ```
 python path_to_dir\integra_project_demo.py
