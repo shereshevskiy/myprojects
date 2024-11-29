@@ -8,14 +8,14 @@ Project Overview
 	1.	Courses that may benefit the client
 	2.	The client’s willingness to purchase recommended courses
 	3.	The potential budget the client is willing to spend
-
-At each stage, the system assigns a probability to its predictions, such as:
-	•	“The client is likely ready to purchase courses.”
-	•	“The client is definitely ready to purchase courses.”
-
+    
+At each stage, the system assigns a probability to its predictions, such as:    
+	•	“The client is likely ready to purchase courses.”    
+	•	“The client is definitely ready to purchase courses.”    
+    
 This is the first version of the system.
 ### For an overview, check out the demo screenshots in the [Demo_Screenshots](https://github.com/shereshevskiy/myprojects/tree/master/personality_development_school/%D0%94%D0%B5%D0%BC%D0%BE_%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B) folder
-
+    
 ## Key Features
 
 	1.	The system’s recommendations are based on analyzing client correspondence and can:
