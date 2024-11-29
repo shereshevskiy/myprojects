@@ -14,6 +14,7 @@ At each stage, the system assigns a probability to its predictions, such as:
 	•	“The client is definitely ready to purchase courses.”
 
 This is the first version of the system.
+### For an overview, check out the demo screenshots in the [Демо_скриншоты](https://github.com/shereshevskiy/myprojects/tree/master/personality_development_school/%D0%94%D0%B5%D0%BC%D0%BE_%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B) folder
 
 ## Key Features
 
@@ -32,14 +33,13 @@ Prerequisites
 
 ### Steps to Run
 
-	1.	Clone the Repository
-Download the repository to your computer, ensuring the data folder is included.
-(Note: The data folder is over 1 GB due to the size of the models.)
-	2.	Run the Application
-Open a command prompt and execute the following command:
-
+	1.	Clone the Repository    
+Download the repository to your computer, ensuring the data folder is included.    
+	2.	Run the Application    
+Open a command prompt and execute the following command:    
+```
 python path_to_dir\integra_project_demo.py
-
+```
 Replace path_to_dir with the path to the project folder on your computer.
 
 	3.	Wait for Initialization
@@ -53,9 +53,9 @@ Classifier is ready
 
 	4.	Access the Demo
 Open your browser and navigate to:
-
+```
 http://127.0.0.1:5000/integra-demo
-
+```
 The demo interface, as shown in the attached screenshots, should appear.
 
 	5.	Use the System
