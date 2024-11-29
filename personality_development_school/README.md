@@ -1,7 +1,7 @@
 # <center>Рекомендательная система: выявление потребностей клиентов школы развития личности
 
-## Краткое описание проекта
-(Примечание: проект сделан в 2017 г.)
+## Краткое описание проекта   
+(Примечание: проект сделан в 2017г.)
 ---
 ### Для ознакомления просмотрите демонстрационные скриншоты в папке [Демо_скриншоты](https://github.com/shereshevskiy/myprojects/tree/master/personality_development_school/%D0%94%D0%B5%D0%BC%D0%BE_%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B) 
 
@@ -39,11 +39,12 @@ python path_to_dir\integra_project_demo.py
 - где path_to_dir - путь до папки.
 
 3. Дождитесь появления следующих строк:
-
+```
 Preparing classifier    
 Classifier is ready    
 43.610289335250854 seconds    
- * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)    
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+```
 
 4. В браузере перейдите по адресу http://127.0.0.1:5000/integra-demo.
 Должна появиться страница как на прилагаемых скриншотах.
