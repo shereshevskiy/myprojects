@@ -19,11 +19,11 @@ This is the first version of the system.
     
 ## Key Features
 
-  1.	The system’s recommendations are based on analyzing client correspondence and can:
-    • Be displayed on web pages customized for each potential client.
-    • Assist customer support teams during client interactions.
-  2.	Demo screenshots of the system’s interface are available in the Demo Screenshots folder.
-  3.	The system’s mathematical logic is implemented in Python 3, while the interface page is built using the Bootstrap framework.
+  1.	The system’s recommendations are based on analyzing client correspondence and can:   
+    • Be displayed on web pages customized for each potential client.   
+    • Assist customer support teams during client interactions.   
+  2.	Demo screenshots of the system’s interface are available in the Demo Screenshots folder.   
+  3.	The system’s mathematical logic is implemented in Python 3, while the interface page is built using the Bootstrap framework.   
 
 ## How to Run the Demo
 
