@@ -10,6 +10,7 @@ Project Overview
 	3.	The potential budget the client is willing to spend
     
 At each stage, the system assigns a probability to its predictions, such as:    
+    
 	•	“The client is **likely** ready to purchase courses.”    
 	•	“The client is **definitely** ready to purchase courses.”    
     
