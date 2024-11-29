@@ -1,12 +1,10 @@
-Вот обновленный и улучшенный README, оформленный с учетом современных стандартов:
-
-Recommender System: Identifying Client Needs for a Personal Development School
+# Recommender System: Identifying Client Needs for a Personal Development School
 
 Project Overview
 
 (Note: This project was created in 2017)
 
-This project is a recommendation system designed to analyze client interactions and identify:
+## This project is a recommendation system designed to analyze client interactions and identify:
 	1.	Courses that may benefit the client
 	2.	The client’s willingness to purchase recommended courses
 	3.	The potential budget the client is willing to spend
@@ -17,7 +15,7 @@ At each stage, the system assigns a probability to its predictions, such as:
 
 This is the first version of the system.
 
-Key Features
+## Key Features
 
 	1.	The system’s recommendations are based on analyzing client correspondence and can:
 	•	Be displayed on web pages customized for each potential client.
@@ -25,14 +23,14 @@ Key Features
 	2.	Demo screenshots of the system’s interface are available in the Demo Screenshots folder.
 	3.	The system’s mathematical logic is implemented in Python 3, while the interface page is built using the Bootstrap framework.
 
-How to Run the Demo
+## How to Run the Demo
 
 Prerequisites
 
 	•	Operating System: Windows
 	•	Python 3 Installed: If Python 3 is not installed, refer to the instructions below for installation guidance.
 
-Steps to Run
+### Steps to Run
 
 	1.	Clone the Repository
 Download the repository to your computer, ensuring the data folder is included.
@@ -63,7 +61,7 @@ The demo interface, as shown in the attached screenshots, should appear.
 	5.	Use the System
 Input sample client correspondence and click the “Evaluate Client Needs” button to generate recommendations.
 
-Installing Python 3
+### Installing Python 3
 
 If Python 3 is not installed, follow these steps:
 	•	Option 1: Download and install Python 3 directly from the official Python website.
@@ -71,13 +69,13 @@ If Python 3 is not installed, follow these steps:
 	•	Visit the Anaconda website.
 	•	Download and install the appropriate version for your system.
 
-Future Improvements
+## Future Improvements
 
 	•	Enhanced AI Models: Incorporate more advanced natural language processing techniques for better accuracy.
 	•	Additional Platforms: Extend compatibility to Linux and MacOS.
 	•	Cloud Deployment: Deploy the system on a cloud platform for easier access without local setup.
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
